@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 16 10:30:21 2020
-
-@author: Ithunder
-"""
 import logging 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import settings
